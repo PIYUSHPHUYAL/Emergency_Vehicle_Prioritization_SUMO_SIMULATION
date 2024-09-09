@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Black">
+    <option name="sdkName" value="Python 3.13 (Self-Driving-Car-using-Raspberry-Pi)" />
+  </component>
+  <component name="ProjectResources">
+    <resource url="http://sumo.dlr.de/xsd/routes_file.xsd" location="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectRootManager" version="2" project-jdk-name="Python 3.12 (pythonProject1)" project-jdk-type="Python SDK" />
+</project>
